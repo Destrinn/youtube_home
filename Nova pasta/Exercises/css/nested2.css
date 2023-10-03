@@ -1,0 +1,82 @@
+
+p {
+    margin: 0;
+    font-size: 14px;
+}
+section {
+    background-color: lightgray;
+    width: 520px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.twitter-picture-duck {
+    width: 50px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+
+.twitter {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    width: 550px;
+
+}
+
+.twitter-name {
+    display: flex;
+    align-items: center;
+    padding-bottom: 8px;
+}
+
+.name-nick {
+    margin: 0 10px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.name-arroba {
+    color: gray;
+    font-size: 13px;
+}
+
+.twitter-text {
+    margin-left: 15px;
+    line-height: 15px;
+    
+}
+
+.link-block {
+    background-color: gray;
+    width: 55px;
+    height: 55px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 60px;
+}
+
+.link {
+    display: flex;
+}
+
+.link-link {
+    font-size: 12px;
+    color: gray;
+    margin-left: 6px;
+}
+
+.link-description {
+    font-size: 16px;
+    margin-left: 6px;
+    text-transform: lowercase;
+}
+
+.link-text {
+    border-top: 1px solid;
+    border-right: 1px solid;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 1px solid;
+}

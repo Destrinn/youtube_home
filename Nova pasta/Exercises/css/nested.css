@@ -1,0 +1,75 @@
+
+
+.dog-box {
+    border:  solid rgb(192, 192, 192);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0, 0.5);
+    margin-bottom: 300px;
+
+}
+
+.dog-inbox {
+    margin: 5px;
+    color: gray;
+    font-size: 10px;
+    display: block;
+}
+
+
+.dog-picture {
+    width: 35px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.dog-email {
+    display: flex;
+    align-items: center;
+    line-height: 2px;
+    margin: 0;
+    width: 100%;
+}
+
+.dog-row {
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    justify-content: space-between;
+}
+
+.dog-hour {
+    font-size: 11px;
+    color: gray;
+    font-weight: 530;
+   
+}
+
+.dog-name {
+    font-size: 14px;
+    margin: 0;
+
+}
+
+.dog-subject {
+    font-size: 11px;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+.dog-text {
+    font-size: 11px;
+
+}
+
+.dog-content {
+    width: 230px;
+}
+
+
+

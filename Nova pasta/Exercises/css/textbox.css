@@ -1,0 +1,56 @@
+div {
+  margin: 20px;
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.5);
+  width: 250px;
+  display: inline-block;
+  align-items: center;
+}
+
+img {
+  width: 250px;
+}
+
+h3 {
+  padding-left: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+p {
+  color: gray;
+  margin: 4px;
+  
+}
+
+section {
+  display: flex;
+  margin: 5px;
+}
+
+button {
+  width: 50%;
+  border-radius: 5px;
+  color: white;
+  background-color: blue;
+  border: 0;
+  padding: 5px 10px;
+  margin: 5px;
+  font-weight: 400;
+}
+
+.img_princess {
+  width: 30px;
+  border-radius: 30px;
+}
+
+.actionbar {
+  display: flex;
+  box-shadow: none;
+  width: 800px;
+  background-color: purple;
+}
+
+.actionbar_button {
+  width: 10%;
+  background-color: red;
+}
